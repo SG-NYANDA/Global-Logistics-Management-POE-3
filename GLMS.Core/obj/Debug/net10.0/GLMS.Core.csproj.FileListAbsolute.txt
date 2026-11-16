@@ -1,0 +1,13 @@
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\bin\Debug\net10.0\GLMS.Core.deps.json
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\bin\Debug\net10.0\GLMS.Core.dll
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\bin\Debug\net10.0\GLMS.Core.pdb
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\obj\Debug\net10.0\GLMS.Core.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\obj\Debug\net10.0\GLMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\obj\Debug\net10.0\GLMS.Core.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\obj\Debug\net10.0\GLMS.Core.AssemblyInfo.cs
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\obj\Debug\net10.0\GLMS.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\obj\Debug\net10.0\GLMS.Core.sourcelink.json
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\obj\Debug\net10.0\GLMS.Core.dll
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\obj\Debug\net10.0\refint\GLMS.Core.dll
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\obj\Debug\net10.0\GLMS.Core.pdb
+C:\Users\user\Documents\Rosebank International Advance Diploma IT\Enterprise Application Development EAPD7111 2026\GLMS\GLMS.Core\obj\Debug\net10.0\ref\GLMS.Core.dll
