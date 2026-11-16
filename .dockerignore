@@ -1,0 +1,9 @@
+**/bin/
+**/obj/
+**/.vs/
+**/App_Data/agreements/
+.git/
+.env
+.env.*
+!.env.example
+**/TestResults/
